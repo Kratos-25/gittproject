@@ -23,4 +23,15 @@ public class Heroes {
 	public void Ragnar() {
 
 	}
+	private void captain() {
+
+	}
+	
+	private void blackadam() {
+
+	}
 }
+
+
+
+
