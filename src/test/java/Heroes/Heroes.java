@@ -23,13 +23,23 @@ public class Heroes {
 	public void Ragnar() {
 
 	}
+	private void spidy() {
+
+	}
+	
+	private void ironman() {
+
+
+	}
+
 	private void captain() {
 
 	}
 	
 	private void blackadam() {
 
-	}
+	
+}
 }
 
 
